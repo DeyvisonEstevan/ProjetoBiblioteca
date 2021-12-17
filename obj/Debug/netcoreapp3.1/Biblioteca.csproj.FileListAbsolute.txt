@@ -51,3 +51,9 @@ C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INT
 C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroRealizado.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC07\Atividade 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
